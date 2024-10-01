@@ -1,0 +1,5 @@
+.venv
+/flagged
+transcript.txt
+/whisper.cpp
+.DS_Store
