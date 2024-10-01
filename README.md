@@ -1,4 +1,4 @@
-# Meeting Summarizer
+# AI-Powered Meeting Summarizer
 
 ## Overview
 
@@ -28,8 +28,8 @@ Follow the steps below to set up and run the application:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-repo/meeting-summarizer.git
-cd meeting-summarizer
+git clone https://github.com/AlexisBalayre/AI-Powered-Meeting-Summarizer
+cd AI-Powered-Meeting-Summarizer
 ```
 
 ### Step 2: Run the Setup Script
