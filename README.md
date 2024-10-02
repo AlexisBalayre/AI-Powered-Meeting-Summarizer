@@ -23,6 +23,15 @@ The **AI-Powered Meeting Summarizer** is a Gradio-powered application that conve
 - [Gradio](https://www.gradio.app/) (for the web interface)
 - [Requests](https://requests.readthedocs.io/en/latest/) (for handling API calls to the Ollama server)
 
+## Pre-Installation
+
+Before running the application, ensure you have Ollama that is running on your local machine or a server. You can follow the instructions provided in the [Ollama repository](https://github.com/ollama/ollama) to set up the server. Do not forget to download and run a model from the Ollama server.
+
+```bash
+# To install and run Llama 3.2
+ollama run llama3.2
+```
+
 ## Installation
 
 Follow the steps below to set up and run the application:
